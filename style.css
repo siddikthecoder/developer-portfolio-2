@@ -17,12 +17,14 @@ section{
     color: orange;
 }
 .link-button{
+    display: inline-block;
     color: white;
     background-image: linear-gradient(to right, tomato, rgba(255, 99, 71, 0.664));
     padding: 10px 40px;
     text-decoration: none;
     font-weight: 700;
     border-radius: 5px;
+    margin-top: 10px;
     
 }
 .half-width{
